@@ -1,7 +1,7 @@
 ## App Workflow — Diagrammatic Overview
 
 <p>
-  <img src="/images/Apw.png" width="1200">
+  <img src="../images/Apw.png" width="1200">
 </p>
 
 ---

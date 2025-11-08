@@ -9,7 +9,7 @@
 ### Flow of the process:
 
 <p>
-  <img src="/images/cf.png" width="900">
+  <img src="../images/cf.png" width="900">
 </p>
 
 When the client fills out their daily report for each exercise, the following two fields are required:  
