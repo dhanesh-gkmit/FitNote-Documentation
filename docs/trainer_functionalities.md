@@ -40,7 +40,7 @@ As the client progresses or introduces new requirements (like muscle gain, fat l
 - **Delete:** Remove unnecessary templates to keep the system clean.
 
 
-#### Training Templates:
+### Training Templates:
 
 #### 1.Workout Template
 
