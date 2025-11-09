@@ -41,33 +41,23 @@ As the client progresses or introduces new requirements (like muscle gain, fat l
 
 
 ### Training Templates:
-
-#### 1.Workout Template
-
-**Used for:** Both strength (resistance) and cardio exercises — allowing trainers to plan a complete workout routine in one place.
-
-
-Each workout day can include a mix of:<br>
-- **Strength exercises:** These involve lifting weights and are used to build muscle.<br>
-- **Cardio exercises:** These improve cardiovascular health, stamina, and endurance (e.g., running, cycling).
+#### 1. Workout Template  
+**Used for:** Strength exercises  
+- **Strength exercises:** These involve lifting weights and are used to build muscle.  
 
 **Includes:**  
 - Exercise name  
-- Type (e.g. Strength / Cardio)  
-- Sets or duration where sets are for the strength exercises and duration is for the cardio exercises.<br>
-- Suggested weight or intensity  
-- Reps (for strength exercises)
+- Number of Sets  
+- Suggested weight  
+- Reps  
 
-**Example:**
+**Example:**  
 
-| Exercise Name  | Type      | Sets / Duration   | Suggested Weight / Intensity | Reps Range |
-|----------------|-----------|------------------|------------------------------|-------------|
-| Bench Press    | Strength  | 3 sets           | 20kg / 25kg / 30kg           | 10 / 8 / 6 |
-| Squats         | Strength  | 4 sets           | 40kg / 45kg / 50kg           | 12 / 10 / 8 |
-| Shoulder Press | Strength  | 3 sets           | 15kg / 20kg / 25kg           | 10 / 10 / 8 |
-| Running        | Cardio    | 30 mins          | Moderate pace                | — |
-| Rope Skipping  | Cardio    | 3 × 30 sec       | High intensity               | — |
-
+| Exercise Name  | Sets / Duration | Suggested Weight | Reps Range |
+|----------------|------------------|------------------|-------------|
+| Bench Press    | 3 sets           | 20kg / 25kg / 30kg | 10 / 8 / 6 |
+| Squats         | 4 sets           | 40kg / 45kg / 50kg | 12 / 10 / 8 |
+| Shoulder Press | 3 sets           | 15kg / 20kg / 25kg | 10 / 10 / 8 |
 
 #### 2.Diet Template
 
@@ -93,5 +83,5 @@ Each workout day can include a mix of:<br>
 ## 3. Report Handling
 
 - Trainers get daily progress reports of the assigned schedule from clients via email.  
-- Trainers can also receive reports for past workout and cardio sessions of the client if the client forgot to send them or was not able to send them on time.
+- Trainers can also receive reports for past workout sessions of the client if the client forgot to send them or was not able to send them on time.
 
