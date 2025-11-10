@@ -1,15 +1,14 @@
-<h1 style="display: flex; align-items: center; gap: 12px;">
-  <img src="images/fitNote-overview.png" alt="FitNote Overview" style="height: 50px; border-radius: 8px;">
-  <span> - Functional Documentation</span>
-</h1>
+# ![FitNote Logo](images/fitNote-overview.png){ style="height:40px;vertical-align:middle;border-radius:8px;" } — Functional Documentation
+
 
 ## Project Overview
 
 FitNote is a fitness tracking and management web application designed for gym goers and personal trainer.
 It provides a digital solution for tracking workouts and diet plans for both fitness mentors who train their clients and for the clients themselves who are taking metorship.
+This application is designed for a **single trainer managing multiple clients**, providing a centralized system to organize, assign, the workout and diet schedules.
 ---
 
-## Problems
+## Problems Statement
 
 1. **Fitness mentors currently have to track all their clients’ workout schedules manually**, either in notebooks or in note-taking apps.
 
@@ -23,12 +22,11 @@ It provides a digital solution for tracking workouts and diet plans for both fit
 
 ---
 
-
 ## Solution
 A single online platfrom where :
 
 - **Fitness Mentor**
-    
+
     - can assign workouts shedule's to clients.
     - can monitor progress by reviewing past workout data and daily performance reports  
 
@@ -36,5 +34,20 @@ A single online platfrom where :
    
     - can can see the workouts assigned to them.  
     - can track all their past workout schedules and progress.
+
+## Solution
+A single online platfrom where :
+
+- **Fitness Mentor**
+
+    - can assign workouts shedule's to clients.
+    - can monitor progress by reviewing past workout data and daily performance reports  
+
+- **Clients**
+   
+    - can can see the workouts assigned to them.  
+    - can track all their past workout schedules and progress.
+
+
 
 
