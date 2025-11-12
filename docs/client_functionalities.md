@@ -7,7 +7,7 @@
 ## 2. Save and Submit Workout Reports to Mentor
 ### Flow of the Process
 
-![client flow](images/Client_functionalities.png){ width=900 }
+![client flow](images/Client_functionalities.png){ width=1300 }
 
 When the client fills out their daily report for each exercise, the following two fields are required:  
 1. **Client’s attained weight**  
@@ -23,9 +23,9 @@ Please find below the daily workout report submitted by your client **Ram** for 
 
 | Exercise Name  | Sets   | Suggested Weight | Reps Range | Client’s Attained Weight | Client’s Attained Reps |
 |----------------|--------|------------------|-------------|--------------------------|------------------------|
-| Bench Press    | 3 sets | 20kg / 25kg / 30kg | 10 / 8 / 6 | 25kg / 30kg / 32kg | 10 / 8 / 6 |
-| Squats         | 4 sets | 40kg / 45kg / 50kg | 12 / 10 / 8 | 45kg / 50kg / 55kg | 12 / 10 / 8 |
-| Shoulder Press | 3 sets | 15kg / 20kg / 25kg | 10 / 10 / 8 | 20kg / 25kg / 27kg | 10 / 10 / 8 |
+| Bench Press    | 3 sets | 20kg / 25kg / 30kg | 10 / 8 / 6 | <span style="color:green">20kg</span> / <span style="color:green">26kg</span> / <span style="color:red">28kg</span> | <span style="color:green">10</span> / <span style="color:red">7</span> / <span style="color:green">6</span> |
+| Squats         | 4 sets | 40kg / 45kg / 50kg | 12 / 10 / 8 | <span style="color:red">38kg</span> / <span style="color:green">45kg</span> / <span style="color:green">52kg</span> | <span style="color:green">12</span> / <span style="color:green">10</span> / <span style="color:red">7</span> |
+| Shoulder Press | 3 sets | 15kg / 20kg / 25kg | 10 / 10 / 8 | <span style="color:green">16kg</span> / <span style="color:red">18kg</span> / <span style="color:green">25kg</span> | <span style="color:red">9</span> / <span style="color:green">10</span> / <span style="color:green">8</span> |
 
 **Note:** The same report is saved in the client’s workout database.
 

@@ -7,10 +7,17 @@ extra_css:
 
 nav:
   - Requiremnts & Objective: index.md
-  - Initial Workflow &Trainer Functionalities: trainer_functionalities.md
+  - Client Onboarding & Trainer Functionalities: trainer_functionalities.md
   - Client Functionalities: client_functionalities.md
   - System Flow,Edge Cases,Expected Outcome & Tech Stack: system_flow_and_outcome.md
-
+  - ErDiagram: erdiagram_and_database_schema.md
+  - Technical Workflow: technical_workflow.md
 markdown_extensions:
   - attr_list
+
+
+plugins:
+  - search
+  - mermaid2
+
 

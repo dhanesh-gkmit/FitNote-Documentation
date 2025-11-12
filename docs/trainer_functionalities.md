@@ -7,7 +7,8 @@ These credentials are shared with the client, who can then **log in** to the sys
 
 If the client ever forgets their credentials, the mentor has full authority to verify and provide the login details again.
 
-![client onboarding](images/Client_Onboarding.png){ width=700 }
+<img src="../images/Client_Onboarding.png" class="small-img">
+
 
 This setup ensures:
 - A controlled onboarding process (mentor-approved accounts only)  

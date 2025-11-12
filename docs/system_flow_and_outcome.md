@@ -1,6 +1,6 @@
 ## App Workflow — Diagrammatic Overview
 
-![System Flow](images/App_workflow.png){ width="1000" }
+![System Flow](images/App_workflow.png){ width=1300 }
 ---
 
 ## Some Possible Edge Cases
@@ -35,7 +35,7 @@
 The project is built using a simple and powerful tech stack suitable for real deployment.
 
 ## MERN Stack
-- **MongoDB** – Database for storing users, workouts, Diet.
+- **MongoDB Atlas** – Database for storing users, workouts, Diet.
 - **Express.js** – Backend API framework.
 - **React.js** – Frontend UI framework.
 - **Node.js** – Server runtime.
@@ -43,9 +43,6 @@ The project is built using a simple and powerful tech stack suitable for real de
 ## Version Control
 - **Git** – Version control for managing changes.
 - **GitHub** – Remote code repository for collaboration and backups.
-
-## Containerization
-- **Docker** – Used to containerize the application for easier deployment and consistent environments.
 
 ## Cloud Hosting
 - **AWS EC2** – Cloud server used to deploy and run the production environment.
