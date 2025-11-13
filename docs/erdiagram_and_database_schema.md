@@ -278,31 +278,7 @@ const clientExerciseHistorySchema = new mongoose.Schema({
 
 module.exports = mongoose.model("ClientExerciseHistory", clientExerciseHistorySchema);
 ```
-## Diet Items
-```js
-const mongoose = require("mongoose");
 
-const dietItemSchema = new mongoose.Schema(
-  {
-    dietId: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: "Diet",
-      required: true
-    },
-    mealName: { type: String, required: true },
-    quantity: { type: String },
-    timing: { type: String },
-    notes: { type: String },
-    deletedAt: { type: Date, default: null }
-  },
-  {
-    timestamps: true,            // adds createdAt & updatedAt
-    collection: "diet_items"     // lowercase snake_case plural
-  }
-);
-
-module.exports = mongoose.model("DietItem", dietItemSchema);
-```
 
 
 
